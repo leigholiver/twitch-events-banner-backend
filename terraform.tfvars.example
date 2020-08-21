@@ -1,0 +1,6 @@
+aws_region  = "eu-west-2"
+name        = "twitch-events-banner"
+teb_version = "0.0.1"
+author      = "tn#9673"
+update_rate = "rate(30 minutes)"
+domain_name = "example.com"

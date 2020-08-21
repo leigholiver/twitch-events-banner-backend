@@ -1,0 +1,8 @@
+.terraform/*
+terraform.tfstate*
+terraform.tfvars
+
+build/*
+!build/.gitignore
+!build/packages
+!build/packages/.gitignore
